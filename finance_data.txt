@@ -1,0 +1,8 @@
+#Account: reena 3100
+T Income 2000 "mom"
+T Expenditure 500 "food"
+I SIP 200 1 50
+I FD 200 1
+#Account: kajal 3900
+T Income 2000 "mom"
+I SIP 100 1 20
